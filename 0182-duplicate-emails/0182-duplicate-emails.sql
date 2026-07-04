@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+SELECT EMAIL
+FROM (
+    SELECT EMAIL, COUNT(EMAIL) AS EC
+    FROM PERSON
+    GROUP BY EMAIL
+    HAVING COUNT(EMAIL) > 1
+) AS SubQuery;
