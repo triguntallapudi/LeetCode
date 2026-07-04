@@ -1,5 +1,5 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+This repository contains all of the LeetCode problems I have solved and serves as a record of my problem-solving journey. You can also view my complete progress on my [LeetCode](https://leetcode.com/u/triguntallapudi/) profile.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
