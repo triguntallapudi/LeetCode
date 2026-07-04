@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/triguntallapudi/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/triguntallapudi/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/triguntallapudi/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/triguntallapudi/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/triguntallapudi/LeetCode/tree/master/0595-big-countries) |
 ## Array
 |  |
