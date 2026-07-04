@@ -1,5 +1,5 @@
 # LeetCode
-This repository contains all of the LeetCode problems I have solved and serves as a record of my problem-solving journey.
+This repository contains all of the LeetCode problems I have solved and serves as a record of my problem-solving journey.<br>
 You can also view my complete progress on my [LeetCode](https://leetcode.com/u/triguntallapudi/) profile.
 
 <!---LeetCode Topics Start-->
