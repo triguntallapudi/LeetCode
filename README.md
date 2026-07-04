@@ -27,6 +27,7 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 | [0627-swap-sex-of-employees](https://github.com/triguntallapudi/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/triguntallapudi/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/triguntallapudi/LeetCode/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/triguntallapudi/LeetCode/tree/master/1084-sales-analysis-iii) |
 ## Array
 |  |
 | ------- |
