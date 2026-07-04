@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/triguntallapudi/LeetCode/tree/master/0595-big-countries) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/triguntallapudi/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/triguntallapudi/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
