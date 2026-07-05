@@ -33,6 +33,7 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/triguntallapudi/LeetCode/tree/master/0001-two-sum) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/triguntallapudi/LeetCode/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
