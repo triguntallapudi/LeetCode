@@ -37,6 +37,7 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/triguntallapudi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
