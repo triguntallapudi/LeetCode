@@ -30,6 +30,7 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 | [1084-sales-analysis-iii](https://github.com/triguntallapudi/LeetCode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/triguntallapudi/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/triguntallapudi/LeetCode/tree/master/1148-article-views-i) |
+| [3436-find-valid-emails](https://github.com/triguntallapudi/LeetCode/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/triguntallapudi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
