@@ -51,10 +51,12 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 | ------- |
 | [0009-palindrome-number](https://github.com/triguntallapudi/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/triguntallapudi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/triguntallapudi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ You can also view my complete progress on my [LeetCode](https://leetcode.com/u/t
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
