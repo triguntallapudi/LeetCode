@@ -32,6 +32,7 @@ Here are all the problems, organized into their respective topic categories.
 | [1179-reformat-department-table](https://github.com/triguntallapudi/LeetCode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/triguntallapudi/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/triguntallapudi/LeetCode/tree/master/1251-average-selling-price) |
+| [1873-calculate-special-bonus](https://github.com/triguntallapudi/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/triguntallapudi/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/triguntallapudi/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/triguntallapudi/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
