@@ -31,6 +31,7 @@ Here are all the problems, organized into their respective topic categories.
 | [1148-article-views-i](https://github.com/triguntallapudi/LeetCode/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/triguntallapudi/LeetCode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/triguntallapudi/LeetCode/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/triguntallapudi/LeetCode/tree/master/1251-average-selling-price) |
 | [3436-find-valid-emails](https://github.com/triguntallapudi/LeetCode/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/triguntallapudi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
