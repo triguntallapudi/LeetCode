@@ -33,6 +33,7 @@ Here are all the problems, organized into their respective topic categories.
 | [1211-queries-quality-and-percentage](https://github.com/triguntallapudi/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/triguntallapudi/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/triguntallapudi/LeetCode/tree/master/1280-students-and-examinations) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/triguntallapudi/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/triguntallapudi/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/triguntallapudi/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/triguntallapudi/LeetCode/tree/master/1789-primary-department-for-each-employee) |
