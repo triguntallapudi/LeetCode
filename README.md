@@ -71,6 +71,7 @@ Here are all the problems, organized into their respective topic categories.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/triguntallapudi/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Here are all the problems, organized into their respective topic categories.
 | [0009-palindrome-number](https://github.com/triguntallapudi/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/triguntallapudi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -98,4 +100,8 @@ Here are all the problems, organized into their respective topic categories.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
