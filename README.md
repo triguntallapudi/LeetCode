@@ -60,6 +60,7 @@ Here are all the problems, organized into their respective topic categories.
 | [1795-rearrange-products-table](https://github.com/triguntallapudi/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/triguntallapudi/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/triguntallapudi/LeetCode/tree/master/1890-the-latest-login-in-2020) |
+| [1934-confirmation-rate](https://github.com/triguntallapudi/LeetCode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/triguntallapudi/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/triguntallapudi/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/triguntallapudi/LeetCode/tree/master/3220-odd-and-even-transactions) |
