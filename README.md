@@ -97,6 +97,7 @@ Here are all the problems, organized into their respective topic categories.
 | [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/triguntallapudi/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/triguntallapudi/LeetCode/tree/master/2427-number-of-common-factors) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Here are all the problems, organized into their respective topic categories.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/triguntallapudi/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Here are all the problems, organized into their respective topic categories.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/triguntallapudi/LeetCode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/triguntallapudi/LeetCode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
