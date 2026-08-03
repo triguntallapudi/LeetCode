@@ -1,24 +1,4 @@
 # Write your MySQL query statement below
-/*
-with cte as(
-    SELECT
-        product_id,
-        max(change_date) as date
-    FROM Products
-    WHERE change_date < '2019-08-17'
-    GROUP BY product_id
-)
-select
-    distinct p.product_id,
-    case(
-        when c.product_id is null then price 10
-        else
-    )
-from products p
-left join cte c
-on p.product_id=c.product_id
-and p.change_date=c.date
-*/
 with cte as(
 SELECT
     product_id,
