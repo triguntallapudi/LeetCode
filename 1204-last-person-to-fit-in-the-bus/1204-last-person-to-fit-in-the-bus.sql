@@ -1,0 +1,15 @@
+# Write your MySQL query statement below
+WITH CTE AS(
+select
+    turn,
+    PERSON_ID,
+    PERSON_NAME,
+    WEIGHT,
+    SUM(WEIGHT) OVER (ORDER BY TURN) AS TOTAL_WEIGHT
+from queue
+)
+SELECT PERSON_NAME 
+FROM CTE
+WHERE TOTAL_WEIGHT<=1000
+ORDER BY TURN DESC
+LIMIT 1
