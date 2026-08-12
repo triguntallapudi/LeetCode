@@ -77,6 +77,7 @@ Here are all the problems, organized into their respective topic categories.
 | [1965-employees-with-missing-information](https://github.com/triguntallapudi/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/triguntallapudi/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/triguntallapudi/LeetCode/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/triguntallapudi/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/triguntallapudi/LeetCode/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/triguntallapudi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
