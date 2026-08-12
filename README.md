@@ -80,6 +80,7 @@ Here are all the problems, organized into their respective topic categories.
 | [3421-find-students-who-improved](https://github.com/triguntallapudi/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/triguntallapudi/LeetCode/tree/master/3436-find-valid-emails) |
 | [3475-dna-pattern-recognition](https://github.com/triguntallapudi/LeetCode/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/triguntallapudi/LeetCode/tree/master/3497-analyze-subscription-conversion) |
 | [3570-find-books-with-no-available-copies](https://github.com/triguntallapudi/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Array
 |  |
