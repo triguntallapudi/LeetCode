@@ -88,6 +88,7 @@ Here are all the problems, organized into their respective topic categories.
 | [0001-two-sum](https://github.com/triguntallapudi/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/triguntallapudi/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/triguntallapudi/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -104,6 +105,7 @@ Here are all the problems, organized into their respective topic categories.
 | ------- |
 | [0009-palindrome-number](https://github.com/triguntallapudi/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/triguntallapudi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/triguntallapudi/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/triguntallapudi/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/triguntallapudi/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/triguntallapudi/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
