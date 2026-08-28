@@ -86,6 +86,7 @@ Here are all the problems, organized into their respective topic categories.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/triguntallapudi/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/triguntallapudi/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/triguntallapudi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/triguntallapudi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -150,4 +151,8 @@ Here are all the problems, organized into their respective topic categories.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/triguntallapudi/LeetCode/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/triguntallapudi/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
